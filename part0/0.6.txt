@@ -1,0 +1,8 @@
+note over selain
+Tapahtumankäsittelijä lisää uuden
+muistiinpanon listaan paikallisesti,
+renderöi listan uudelleen ja lopulta
+lähettää tiedot palvelimelle
+end note
+selain-palvelin HTTP POST httpsfullstack-exampleapp.herokuapp.comnew_note_spa
+palvelin--selain vahvistus tallentamisesta (201 Created)

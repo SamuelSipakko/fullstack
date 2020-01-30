@@ -1,0 +1,19 @@
+.red {
+    color: red;
+}
+
+.img {
+    width: 300px;
+    height: 200px;
+}
+
+.span {
+    color: grey;
+}
+
+.btn {
+    border-radius: 8px;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+}
